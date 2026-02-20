@@ -3,8 +3,6 @@
 cad.me is an open-source Python-based user registration system.  
 It allows storing personal information such as name, CPF, birthday and other custom fields.
 
-This project was created to practice authentication logic, data persistence and command-line application development.
-
 ## Features
 
 • User registration  
