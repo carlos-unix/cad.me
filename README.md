@@ -20,7 +20,8 @@ Python and SQLite.
 
 Make sure Python 3 is installed.
 
-Run the program with:
+1) Run `python3 db.py` to create the database.
+2) Run the program with: `python3 cadme.py`.
 
 ## Default Login
 
@@ -28,8 +29,10 @@ Run the program with:
 | ------ |:------:|
 | admin  | admin  | 
 
+**Note**: if you don't wanna use the above credentials, you can delete the `usuarios.db` file and insert a new one on the database.
+
 ## Screenshots
 
-![Login screen](assets/login_screen.jpg)
+![Login screen](assets/login-screen.jpg)
 
-![Main screen](assets/main_screen.jpg)
+![Main screen](assets/main-screen.jpg)
