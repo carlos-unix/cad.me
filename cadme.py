@@ -9,7 +9,6 @@ from PIL import ImageTk, Image
 from db import *
 from verificar_login import *
 
-#Definindo cores
 co0 = "#2e2d2b"
 co1 = "#feffff"
 co2 = "#e5e5e5"
